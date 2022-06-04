@@ -27,7 +27,7 @@ Patch0008: 0008-Reduce-reserved-blocks-percentage-to-zero-for-ext2-e.patch
 Patch0009: 0009-Allow-rescan-for-inactive.patch
 Patch0010: 0010-Allow-whitelisting-filesystems-that-can-be-mounted.patch
 Patch0011: 0011-Add-option-to-set-filesystem-group-permissions.patch
-Patch0012: 0012-Always-mount-filesystems-using-the-UUID-instead-of-l.patch
+#Patch0012: 0012-Always-mount-filesystems-using-the-UUID-instead-of-l.patch
 Patch0013: 0013-Check-if-GTK_DOC_CHECK-is-defined-in-case-gtk-doc-is.patch
 Patch0014: 0014-Add-workaround-in-case-gtk-doc-isn-t-installed.patch
 
